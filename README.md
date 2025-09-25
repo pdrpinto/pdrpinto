@@ -12,6 +12,7 @@
 
 ### 🚀 About me
 - Computer Science student at **UTFPR – Santa Helena**
+- Happy to be developing smart solutions to problems that once seemed like impossible
 - Focused on **Back-end Development**, **Algorithms & Data Structures**, and **Distributed Systems**
 - Passionate about **problem-solving**: trees, linked lists, graphs, dynamic programming, and many more topics
 - Regularly practice algorithm challenges on **LeetCode** and similar platforms
