@@ -11,11 +11,11 @@
 ---
 
 ### 🚀 About me
-- 🎓 Computer Science student at **UTFPR – Santa Helena**
-- 💡 Focused on **Back-end Development**, **Algorithms & Data Structures**, and **Distributed Systems**
-- 🧩 Passionate about **problem-solving**: trees, linked lists, graphs, dynamic programming, and many more topics
-- 🏆 Regularly practice algorithm challenges on **LeetCode** and similar platforms
-- 📦 Enthusiast of **Clean Architecture (DDD/Hexagonal/MVC)**, **containerization with Docker**, and **CI/CD pipelines**
+- Computer Science student at **UTFPR – Santa Helena**
+- Focused on **Back-end Development**, **Algorithms & Data Structures**, and **Distributed Systems**
+- Passionate about **problem-solving**: trees, linked lists, graphs, dynamic programming, and many more topics
+- Regularly practice algorithm challenges on **LeetCode** and similar platforms
+- Enthusiast of **Clean Architecture (DDD/Hexagonal/MVC)**, **containerization with Docker**, and **CI/CD pipelines**
 
 ---
 
@@ -43,11 +43,11 @@
 ---
 
 ### 🔭 Currently working on
-- 🧵 **Concurrency in Go**: context cancellation, sync.Pool, RWMutex, pipelines
-- 🗃️ **Data structures & algorithms**: trees, graphs, DP, linked lists, heap/priority queue
-- 📡 **gRPC microservices** with **observability (Prometheus + Grafana)**
-- ⚡ **LeetCode problem-solving** to sharpen analytical and coding skills
-- 🗂️ **Data modeling** and **tuning** of **Cassandra** and **PostgreSQL** clusters
+- **Concurrency in Go**: context cancellation, sync.Pool, RWMutex, pipelines
+- **Data structures & algorithms**: trees, graphs, DP, linked lists, heap/priority queue
+- **gRPC microservices** with **observability (Prometheus + Grafana)**
+- **LeetCode problem-solving** to sharpen analytical and coding skills
+- **Data modeling** and **tuning** of **Cassandra** and **PostgreSQL** clusters
 
 ---
 
