@@ -16,7 +16,7 @@
 - Focused on **Back-end Development**, **Algorithms & Data Structures**, and **Distributed Systems**
 - Passionate about **problem-solving**: trees, linked lists, graphs, dynamic programming, and many more topics
 - Regularly practice algorithm challenges on **LeetCode** and similar platforms
-- Enthusiast of **Clean Architecture (DDD/Hexagonal/MVC)**, **containerization with Docker**, and **CI/CD pipelines**
+- Enthusiast of **Clean Architecture**, **containerization with Docker**, and **CI/CD pipelines**
 
 ---
 
