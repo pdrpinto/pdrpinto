@@ -47,17 +47,6 @@
 
 </p>
 
----
-
-### 🔭 Currently working on
-- **Concurrency in Go**: context cancellation, sync.Pool, RWMutex, pipelines
-- **Data structures & algorithms**: trees, graphs, DP, linked lists, heap/priority queue
-- **gRPC microservices** with **observability (Prometheus + Grafana)**
-- **LeetCode problem-solving** to sharpen analytical and coding skills
-- **Data modeling** and **tuning** of **Cassandra** and **PostgreSQL** clusters
-
----
-
 ### 📚 Topics I enjoy
 `algorithms` • `data structures` • `dynamic programming` • `trees` • `linked lists` • `graphs` •  
 `rate limiting` • `event-driven architecture` • `message queues` • `system design` • `performance optimization`
@@ -67,7 +56,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pdrpinto&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrpinto&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" height="165" />
 </p>
 
 
